@@ -8,3 +8,4 @@ public class Cal {
         out.println(STR."Day now:\{now()}");
     }
 }
+
