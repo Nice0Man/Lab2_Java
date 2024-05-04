@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10245c27-a750-4d44-aef8-4a1890838d0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task1/FirstNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task10/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task11/Cal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task12/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task14/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task15/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task17/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task2/MyScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task3/VoidClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task4/FourthNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task4/IntSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task5/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task6/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task8/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task9/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Task12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Task14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task10/RandomNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task17/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task5/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task6/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task8/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Task9/CarTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fzkuiD6M5AozCB9KcCrkPb7Z7a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CSVReaderExample.executor": "Run",
+    "Application.Cal.executor": "Run",
+    "Application.FirstNumber.executor": "Run",
+    "Application.FourthNumber.executor": "Run",
+    "Application.IntSwap.executor": "Run",
+    "Application.Invoice.executor": "Run",
+    "Application.VoidClass.executor": "Run",
+    "JUnit.CarTest.executor": "Run",
+    "JUnit.PointTest (1).executor": "Run",
+    "JUnit.PointTest (2).executor": "Run",
+    "JUnit.PointTest.executor": "Run",
+    "JUnit.PointTest.test_get_x (1).executor": "Run",
+    "JUnit.PointTest.test_get_x.executor": "Run",
+    "JUnit.PointTest.test_to_string.executor": "Run",
+    "JUnit.QueueTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.lab2 [-Dtest=NOT_RESOLVED,test-compile...].executor": "Run",
+    "Maven.lab2 [clean,-DforkCount=0...].executor": "Debug",
+    "Maven.lab2 [compile].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Евгений/IdeaProjects/lab2/src/test/java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Евгений\IdeaProjects\lab2\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Евгений\IdeaProjects\lab2\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Task17" />
+      <recent name="Task10" />
+      <recent name="Task9" />
+      <recent name="Task5" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Task9" />
+      <recent name="Task8" />
+      <recent name="Task6" />
+      <recent name="Task5" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Task8" />
+      <recent name="Task6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Invoice">
+    <configuration name="Cal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task11.Cal" />
+      <module name="lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourthNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4.FourthNumber" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Invoice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task15.Invoice" />
+      <module name="lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Task9" />
+      <option name="MAIN_CLASS_NAME" value="Task9.CarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="Task17" />
+      <option name="MAIN_CLASS_NAME" value="Task17.QueueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Invoice" />
+        <item itemvalue="JUnit.QueueTest" />
+        <item itemvalue="Application.FourthNumber" />
+        <item itemvalue="Application.Cal" />
+        <item itemvalue="JUnit.CarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10245c27-a750-4d44-aef8-4a1890838d0f" name="Changes" comment="" />
+      <created>1714811520212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714811520212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Task1/FirstNumber.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Task9/CarTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+Warning: File ./Network$Member.class does not contain class Network$Member
+Compiled from "Network.java"
+public class Task14.Network$Member {
+  private java.lang.String name;
+
+  private java.util.ArrayList<Task14.Network$Member> friends;
+
+  final Task14.Network this$0;
+
+  public Task14.Network$Member(Task14.Network, java.lang.String);
+    Code:
+       0: aload_0
+       1: aload_1
+       2: putfield      #1                  // Field this$0:LTask14/Network;
+       5: aload_0
+       6: invokespecial #2                  // Method java/lang/Object."<init>":()V
+       9: aload_0
+      10: aload_2
+      11: putfield      #3                  // Field name:Ljava/lang/String;
+      14: aload_0
+      15: new           #4                  // class java/util/ArrayList
+      18: dup
+      19: invokespecial #5                  // Method java/util/ArrayList."<init>":()V
+      22: putfield      #6                  // Field friends:Ljava/util/ArrayList;
+      25: return
+
+  public void leave();
+    Code:
+       0: aload_0
+       1: getfield      #1                  // Field this$0:LTask14/Network;
+       4: getfield      #7                  // Field Task14/Network.members:Ljava/util/ArrayList;
+       7: aload_0
+       8: invokevirtual #8                  // Method java/util/ArrayList.remove:(Ljava/lang/Object;)Z
+      11: pop
+      12: return
+}
