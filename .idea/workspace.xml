@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10245c27-a750-4d44-aef8-4a1890838d0f" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdditionalTask/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdditionalTask/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AdditionalTask/SquareTest.java" afterDir="false" />
+    <list default="true" id="10245c27-a750-4d44-aef8-4a1890838d0f" name="Changes" comment="test task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task11/Cal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task11/Cal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdditionalTask/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdditionalTask/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AdditionalTask/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdditionalTask/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AdditionalTask/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AdditionalTask/SquareTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,6 +47,8 @@
     "Application.FourthNumber.executor": "Run",
     "Application.IntSwap.executor": "Run",
     "Application.Invoice.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.Square.executor": "Run",
     "Application.VoidClass.executor": "Run",
     "JUnit.CarTest.executor": "Run",
     "JUnit.PointTest (1).executor": "Run",
@@ -58,10 +59,24 @@
     "JUnit.PointTest.test_to_string.executor": "Run",
     "JUnit.QueueTest.executor": "Run",
     "JUnit.SquareTest.executor": "Run",
+    "JUnit.SquareTest.testOneInsideAnother.executor": "Run",
+    "JUnit.SquareTest.testPartialOverlap.executor": "Run",
+    "JUnit.SquareTest.test_calculate_intersections_adjacent_squares.executor": "Run",
+    "JUnit.SquareTest.test_calculating_intersections_overlapping_squares.executor": "Run",
+    "JUnit.SquareTest.test_calculating_intersections_touching_angle.executor": "Run",
+    "JUnit.SquareTest.test_ensuring_immutability_of_point_objects.executor": "Run",
+    "JUnit.SquareTest.test_floating_point_precision.executor": "Run",
+    "JUnit.SquareTest.test_handling_negative_coordinates.executor": "Run",
+    "JUnit.SquareTest.test_identicalSquares_returnAllPoints.executor": "Run",
+    "JUnit.SquareTest.test_intersection_inside.executor": "Run",
     "JUnit.SquareTest.test_intersections.executor": "Run",
     "JUnit.SquareTest.test_intersections_equals.executor": "Run",
     "JUnit.SquareTest.test_intersections_in_1_point.executor": "Debug",
     "JUnit.SquareTest.test_intersections_in_2_points.executor": "Run",
+    "JUnit.SquareTest.test_is_between_method_accuracy.executor": "Run",
+    "JUnit.SquareTest.test_line_line_intersection_logic.executor": "Run",
+    "JUnit.SquareTest.test_no_duplicate_intersection_points.executor": "Run",
+    "JUnit.SquareTest.test_squaresWithLineIntersection_calculateIntersectionPoints.executor": "Run",
     "JUnit.SquareTest.test_void_intersections.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.lab2 [-Dtest=NOT_RESOLVED,test-compile...].executor": "Run",
@@ -123,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest.test_intersections_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SquareTest.test_calculating_intersections_touching_angle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab2" />
       <extension name="coverage">
         <pattern>
@@ -133,13 +148,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="AdditionalTask" />
       <option name="MAIN_CLASS_NAME" value="AdditionalTask.SquareTest" />
-      <option name="METHOD_NAME" value="test_intersections_equals" />
+      <option name="METHOD_NAME" value="test_calculating_intersections_touching_angle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest.test_intersections_in_1_point" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SquareTest.test_handling_negative_coordinates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab2" />
       <extension name="coverage">
         <pattern>
@@ -149,13 +164,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="AdditionalTask" />
       <option name="MAIN_CLASS_NAME" value="AdditionalTask.SquareTest" />
-      <option name="METHOD_NAME" value="test_intersections_in_1_point" />
+      <option name="METHOD_NAME" value="test_handling_negative_coordinates" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest.test_intersections_in_2_points" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SquareTest.test_intersection_inside" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab2" />
       <extension name="coverage">
         <pattern>
@@ -165,13 +180,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="AdditionalTask" />
       <option name="MAIN_CLASS_NAME" value="AdditionalTask.SquareTest" />
-      <option name="METHOD_NAME" value="test_intersections_in_2_points" />
+      <option name="METHOD_NAME" value="test_intersection_inside" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareTest.test_void_intersections" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SquareTest.test_no_duplicate_intersection_points" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab2" />
       <extension name="coverage">
         <pattern>
@@ -181,7 +196,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="AdditionalTask" />
       <option name="MAIN_CLASS_NAME" value="AdditionalTask.SquareTest" />
-      <option name="METHOD_NAME" value="test_void_intersections" />
+      <option name="METHOD_NAME" value="test_no_duplicate_intersection_points" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -190,10 +205,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SquareTest" />
-        <item itemvalue="JUnit.SquareTest.test_void_intersections" />
-        <item itemvalue="JUnit.SquareTest.test_intersections_in_1_point" />
-        <item itemvalue="JUnit.SquareTest.test_intersections_in_2_points" />
-        <item itemvalue="JUnit.SquareTest.test_intersections_equals" />
+        <item itemvalue="JUnit.SquareTest.test_calculating_intersections_touching_angle" />
+        <item itemvalue="JUnit.SquareTest.test_intersection_inside" />
+        <item itemvalue="JUnit.SquareTest.test_handling_negative_coordinates" />
+        <item itemvalue="JUnit.SquareTest.test_no_duplicate_intersection_points" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714817404375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test task">
+      <option name="closed" value="true" />
+      <created>1714828890111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714828890111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +253,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="test task" />
+    <option name="LAST_COMMIT_MESSAGE" value="test task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,8 +271,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/AdditionalTask/Square.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="10" />
+          <line>116</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AdditionalTask/Square.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AdditionalTask/Square.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
